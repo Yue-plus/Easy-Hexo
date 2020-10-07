@@ -66,6 +66,7 @@ themeConfig:
       概要: /4-High-order-hexo-gamer/
       让你的 Hexo 博客支持远程编辑: /4-High-order-hexo-gamer/4-1-remote-editing/
       编写自己的 Hexo 主题: /4-High-order-hexo-gamer/4-2-theme-develop/
+      将主题上传至 NPM: /4-High-order-hexo-gamer/4-3-theme-npm/
     补充内容:
       概要: /5-Add/
       参考资料: /5-Add/5-1-quote.html
@@ -111,6 +112,7 @@ themeConfig:
     /4-High-order-hexo-gamer/:
       - 4-1-remote-editing/
       - 4-2-theme-develop/
+      - 4-3-theme-npm/
     /5-Add/:
       - 5-1-quote.html
       - 5-2-yaml.html
